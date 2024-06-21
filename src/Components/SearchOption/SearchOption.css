@@ -1,0 +1,14 @@
+.search-option {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.search-option input {
+  padding: 8px;
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  height: 30px;
+}
